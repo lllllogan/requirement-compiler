@@ -1,0 +1,10 @@
+spec_level: mini
+spec_version: 1
+outcome: ""
+confirmed: []
+critical_unknowns: []
+locked: []
+success_checks: []
+next_action:
+  mode: ""
+  action: ""
