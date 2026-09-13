@@ -1,0 +1,9 @@
+attempt_id: "A-001"
+spec_version: 1
+target: ""
+inputs: []
+changes_from_previous: []
+expected_effect: ""
+actual_result: ""
+failure_layer: ""
+decision: ""
