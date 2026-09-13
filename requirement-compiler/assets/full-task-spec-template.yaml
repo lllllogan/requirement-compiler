@@ -1,0 +1,26 @@
+spec_level: full
+spec_version: 1
+outcome:
+  statement: ""
+  deliverable: ""
+  why_it_matters: ""
+current_stage: ""
+selected_path:
+  summary: ""
+  rationale: ""
+confirmed: []
+derived: []
+critical_unknowns: []
+assumptions: []
+locked: []
+flexible: []
+assets: []
+success_checks: []
+superseded: []
+invalidated: []
+last_known_good_state:
+  description: ""
+  preserved_items: []
+next_action:
+  mode: ""
+  action: ""
